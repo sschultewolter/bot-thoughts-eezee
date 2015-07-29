@@ -6,8 +6,6 @@ It's possible to use the Arduino IDE to program your ATtiny85, ATtiny84, and ATt
 
 = Arduino IDE =
 
-Next, you'll need to 
-
  * First you need to download the Arduino IDE
  * Create a folder `hardware` in your Arduino sketchbook folder.
    * `~/Arduino`, `My Documents\Arduino`, or `~Documents/Arduino` depending on platform.
